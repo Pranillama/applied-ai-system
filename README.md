@@ -66,4 +66,4 @@ Follow these step-by-step instructions to run the AI on your machine:
 - **Guardrail**: *[BLOCKED BY GUARDRAIL] Guardrail Failed: The AI did not recommend any of our actual catalog songs! It may have hallucinated or ignored the context.*
 
 ## 🎥 Walkthrough Demo
-*(Paste your Loom walkthrough video link here)*
+[Click here to watch the Loom Walkthrough Demo](https://www.loom.com/share/adcce6f5d31b474daa72fd8d4cd8be18)
